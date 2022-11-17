@@ -18,4 +18,4 @@ The following video shows a demo of the application.
 
 [3] RYU controller: https://ryu.readthedocs.io/en/latest/
 
-[4] Towhid, M. S., Shahriar, N.. Encrypted network traffic classification using self-supervised learning. In IEEE 8th International Conference on Network Softwarization (NetSoft), 2022. [To Appear].
+[4] M. S. Towhid and N. Shahriar, "Encrypted Network Traffic Classification using Self-supervised Learning," 2022 IEEE 8th International Conference on Network Softwarization (NetSoft), 2022, pp. 366-374, doi: 10.1109/NetSoft54395.2022.9844044.
