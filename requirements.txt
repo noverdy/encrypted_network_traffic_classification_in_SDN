@@ -1,0 +1,7 @@
+mininet==2.3.0
+numpy==1.26.4
+pandas==2.2.1
+prettytable==3.10.0
+ryu==4.34
+scikit_learn==1.4.1.post1
+torch==2.2.1
